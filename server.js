@@ -12,7 +12,7 @@ app.get('/ramesh', function (req, res) {
   res.send('this is ramesh page');
 });
 app.get('/rajesh', function (req, res) {
-  res.send('this is rajesh file');
+  res.send('this is rajesh page');
 });
 app.get('/ravi', function (req, res) {
   res.send('this is the ravi page');
