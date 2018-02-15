@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: green;
+    background-color: lightgrey;
     margin-top: 75px;
 }
 
@@ -19,10 +19,11 @@ body {
 .img-medium {
     height: 200px;
 }
-/* .container {*/
+ .container {
+    
    
-/*    margin-top: 236px;*/
-/*    margin-right: 20px;*/
-/*    margin-left: 401px;*/
-/*}*/
+    margin-top: 236px;
+    margin-right: 20px;
+    margin-left: 401px;
+}
 
